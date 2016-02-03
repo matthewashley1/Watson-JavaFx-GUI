@@ -47,7 +47,7 @@ public class Main extends Application {
     int Video5 = 0; /* Determines how many times Video5 has been watched! */
     int Video6 = 0; /* Determines how many times Video6 has been watched! */
     int dayOfWeek; /* Inputs what day of the week it is! */
-    int emailSent = 0; /* Used to tell if a email has already been sent! */
+    int emailSent = 0; /* Used to tell if an email has already been sent! */
 
     MediaPlayer mediaPlayer1, mediaPlayer2, mediaPlayer3, mediaPlayer4, mediaPlayer5, mediaPlayer6;
 
